@@ -1,5 +1,4 @@
 ﻿Controlo de versões usando Git
-git
 OpenUp
 
 
